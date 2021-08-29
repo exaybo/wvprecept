@@ -1,0 +1,5 @@
+{
+  emu_mode : 'online',
+  metric_key : 'some key',
+  content_url : 'www.google.com'
+}
