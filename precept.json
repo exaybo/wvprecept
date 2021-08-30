@@ -1,5 +1,5 @@
 {
-  "emu_offline" : true,
+  "emu_offline" : false,
   "metric_key" : "some key",
   "content_url" : "www.google.com"
 }
